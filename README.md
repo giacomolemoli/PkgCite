@@ -6,6 +6,6 @@ If run at the end of a script, it fetches the loaded libraries, generates a refe
 The idea is to make it easier and common to cite user-written software in academic publications. 
 
 References:
-Arel-Bundock, V., & McCrain, J. (2023). [Software citations in political science](https://arelbundock.com/research/arel-bundock_mccrain_2023_software_citations_in_political_science.pdf. *PS: Political Science & Politics*, 56(3), 398-401.
+Arel-Bundock, V., & McCrain, J. (2023). [Software citations in political science](https://arelbundock.com/research/arel-bundock_mccrain_2023_software_citations_in_political_science.pdf). *PS: Political Science & Politics*, 56(3), 398-401.
 
 
